@@ -7,6 +7,7 @@ import { ToastrService } from 'ngx-toastr';
 @Injectable({
   providedIn: 'root'
 })
+/** AuthGuard is used to protect the routes from unauthorized access in angular */ 
 export class AuthGuard implements CanActivate {
   constructor(private accountservice:AccountService , private toastr:ToastrService){
 

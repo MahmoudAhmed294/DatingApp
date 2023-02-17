@@ -1,0 +1,6 @@
+Features of Angular Services:
+Services in Angular are simply typescript classes with the @injectible decorator.
+ This decorator tells angular that the class is a service and can be injected into components that need that service.
+As mentioned earlier, these services are used to share a single piece of code across multiple components.
+ These services are used to hold business logic.
+Services are used to interact with the backend.

@@ -1,0 +1,5 @@
+Interceptors:
+ in Angular, as the name suggests, is a simple way provided by the framework to
+intercept and modify the application’s http requests globally before they are sent to the server.
+That really comes in handy, allowing us to configure authentication tokens , add logs of the
+requests, add custom headers that out application may need and much more.
