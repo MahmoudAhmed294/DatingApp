@@ -1,0 +1,5 @@
+AutoMapper: is the convention-based object to object mapper. 
+It maps the properties of two different objects by transforming the input object of one type to the output object of another type.
+
+
+see image : https://procodeguide.com/wp-content/uploads/2020/06/AutoMapper-1024x506.png
